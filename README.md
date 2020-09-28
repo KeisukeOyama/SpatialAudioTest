@@ -4,6 +4,8 @@ Test App iOS14 CMHeadphoneMotionManager + Oculus Audio Spatializer
 
 # Requirement
 
+Apple AirPods Pro
+
 Tested only iPad Pro 11"(2020)
 
 Unity 2019.4
