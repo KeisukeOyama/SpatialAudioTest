@@ -1,0 +1,7 @@
+# Package-specific files
+Example.meta
+LICENSE.meta
+Plugins.meta
+README.md.meta
+Plugins/*.meta
+Plugins/iOS/*.meta

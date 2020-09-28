@@ -1,0 +1,5 @@
+sceneSetups:
+- path: /Users/qew/Documents/git/_SpatialAudioTest/SpatialAudioTest/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
